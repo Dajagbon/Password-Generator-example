@@ -1,5 +1,3 @@
-# Asg-2-Password Generator
-
 **Purpose**
 The purpose of this project is to create a password generator that can generate either memorable or random passwords based on user input. The generated passwords, along with the time they were created, are saved to separate files in different directories.
 
